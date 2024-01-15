@@ -1,0 +1,19 @@
+.form {
+  margin: 0 auto;
+  padding: 10rem 2rem 4rem 2rem;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  gap: 12px;
+}
+
+.form__label {
+  display: block;
+}
+
+.form__character-count {
+  font-size: inherit;
+  color: #666;
+  text-align: right;
+}
