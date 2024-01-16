@@ -9,6 +9,12 @@
   border-bottom: 1px solid var(--black);
 }
 
+.header-darkmode {
+  background-color: var(--black);
+  color: var(--primary);
+  border-bottom: 1px solid var(--white);
+}
+
 .header__title {
   text-align: center;
 }
