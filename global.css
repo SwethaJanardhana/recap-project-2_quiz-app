@@ -40,6 +40,11 @@ body {
   color: var(--black);
 }
 
+.dark-mode {
+  background-color: var(--black);
+  color: var(--white);
+}
+
 button {
   font-size: var(--fs-400);
   font-family: var(--ff-primary);
